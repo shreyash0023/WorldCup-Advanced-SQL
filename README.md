@@ -3,9 +3,7 @@
 Created the 9 tables for the WORLD CUP database:
 ```
   1. TEAM (TeamID, Team, Continent, League, Population)
-  
   2. STADIUM (SID, SName, SCity, SCapacity)
-  
   3. PLAYER (Team,TeamID,PNo,Position,PName,Birth Date,Shirt Name,Club,Height,Weight)
   (* PLAYER corresponds to the data in the “rosters” data file – Pno corresponds to PlayerID,
   And PName corresponds to FIFA Popular Name *)
