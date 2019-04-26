@@ -1,6 +1,7 @@
 # WorldCup-Advanced-SQL
 
 Created the 9 tables for the WORLD CUP database:
+```
   1. TEAM (TeamID, Team, Continent, League, Population)
   
   2. STADIUM (SID, SName, SCity, SCapacity)
@@ -15,7 +16,7 @@ Created the 9 tables for the WORLD CUP database:
   7. GOALS(GameID,TeamID,PNo,Time,Penalty)
   8. OWN_GOALS(GameID,TeamID,PNo,Time,For_TeamID)
   9. CARDS(GameID,TeamID,PNo,Color,Time)
-  
+  ```
   
   
   Queries Executed:
